@@ -1,0 +1,6 @@
+inputan = int(input())
+a, t = inputan.split()
+
+luas = a * t / 2
+
+print(luas)
